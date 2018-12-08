@@ -1,0 +1,2 @@
+Texte édité avec vim car l'autre éditeur ne me plait pas
+
